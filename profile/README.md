@@ -5,7 +5,7 @@
 
 ## 📱 QualityCheck - Última versión
 
-🔗 [Descargar APK más reciente](https://github.com/UNKDevTeam/QualityCheck-Release/latest)
+🔗 [Descargar APK más reciente](https://github.com/UNKDevTeam/QualityCheck-Release/releases/latest)
 
 Accede a la sección de [Releases](https://github.com/UNKDevTeam/QualityCheck-Release/releases) para ver todas las versiones disponibles.
 
