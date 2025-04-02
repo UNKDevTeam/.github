@@ -11,6 +11,14 @@ Accede a la sección de [Releases](https://github.com/UNKDevTeam/QualityCheck-Re
 
 ---
 
+## 📱 Recover - Última versión
+
+🔗 [Descargar APK más reciente](https://github.com/UNKDevTeam/Recover-Release/releases/latest)
+
+Accede a la sección de [Releases](https://github.com/UNKDevTeam/Recover-Release/releases) para ver todas las versiones disponibles.
+
+---
+
 ## 🛠️ Sobre nosotros
 
 **UNKDevTeam** somos el equipo de desarrollo de soluciones tecnologicas de UNKLatam.
