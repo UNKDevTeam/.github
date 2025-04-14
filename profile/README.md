@@ -17,6 +17,13 @@ Accede a la sección de [Releases](https://github.com/UNKDevTeam/QualityCheck-Re
 
 Accede a la sección de [Releases](https://github.com/UNKDevTeam/Recover-Release/releases) para ver todas las versiones disponibles.
 
+## 📱 Scan - Última versión
+
+🔗 [Descargar APK más reciente](https://github.com/UNKDevTeam/Scan-release/releases/latest)
+
+Accede a la sección de [Releases](https://github.com/UNKDevTeam/Scan-release/releases) para ver todas las versiones disponibles.
+
+
 ---
 
 ## 🛠️ Sobre nosotros
